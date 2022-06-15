@@ -37,7 +37,7 @@ The county results were:
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 As a result of this election, Diana Degette got the 73.8% of the all votes which makes 272892 votes and this result made Diana DeGette the winner.
 
-/Users/huzeyfecanbaz/Desktop/My Analysis/Challenges/Module 3 Challenge/Resources/Screen Shot 2022-06-14 at 7.40.11 PM.png
+[/Users/huzeyfecanbaz/Desktop/My Analysis/Challenges/Module 3 Challenge/Resources/Screen Shot 2022-06-14 at 7.40.11 PM.png](https://github.com/huzeyfecanbaz/Election_Analysis/blob/8d7f5365a0e5c89f520ce48caf65ff45ba36411c/Resources/Screen%20Shot%202022-06-14%20at%207.40.11%20PM.png)
 
 
 ## Resources
